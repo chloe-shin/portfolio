@@ -43,6 +43,7 @@ class Navi extends Component {
              duration= {500}>
              Portfolio
              </Link>
+             
              <Link className= "nav-link px-3" 
              activeClass="active" 
              to = "contact"

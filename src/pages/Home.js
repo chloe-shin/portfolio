@@ -6,7 +6,7 @@ export default function Home() {
     return (
 <Container fluid className= "home">
         <Row id="home">
-        <Col lg={6}>
+        <Col lg={8}>
             <div className= "content">
                   <h1>
                     HELLO, <br/>    
@@ -24,7 +24,7 @@ export default function Home() {
         </Col>
 
         
-        <Col className= "home" lg={6}>
+        <Col className= "home" lg={4}>
         </Col>
 
        
